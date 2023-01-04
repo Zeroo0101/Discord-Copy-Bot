@@ -80,7 +80,7 @@ def main():
 
     MyDiscordEvents(client)
 
-    client.run('MTA1OTg5MzU2ODM4ODQ4MTAzNA.Gn3ZVv._ejnRhFCNQfAgL7AjdhN9La2Lvp1c4-Cvl4VVI')
+    client.run('TOKEN HERE')
 
 
 if __name__ == '__main__':
