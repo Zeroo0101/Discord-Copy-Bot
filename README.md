@@ -1,4 +1,7 @@
 # CopyBot
 
-/copy @member
+Commands:
+
+/copy @member 
+
 /effected
